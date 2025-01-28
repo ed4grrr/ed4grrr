@@ -65,7 +65,7 @@ Welcome to my GitHub profile! I’m a passionate **Applied Computer Scientist** 
 ## Let's Connect!
 
 - **GitHub**: [ed4grrr](https://github.com/ed4grrr)
-- **LinkedIn**: [Edhar Wallace Bowlin, III]([#](https://www.linkedin.com/in/edgar-bowlin-iii/)
+- **LinkedIn**: [Edgar Wallace Bowlin, III](https://www.linkedin.com/in/edgar-bowlin-iii/)
 
 I’m always open to discussing new ideas, projects, or collaboration opportunities. Thank you for stopping by!
 
