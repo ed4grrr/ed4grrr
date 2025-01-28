@@ -22,6 +22,12 @@ Welcome to my GitHub profile! I’m a passionate **Applied Computer Scientist** 
 
 - **Science**  
   Exploring the universe and staying curious about how science and technology intersect through both "hard" and "soft" sciences.
+  Current Topics of interest are
+    - Astronomy
+    - Physics
+    - Psychology
+    - Computer Engineering
+    - Medicine
 
 - **Microcomputer-Based Interactive Exhibits**  
   Building interactive experiences with microcomputers (like Raspberry Pi or Arduino) that merge hardware and software for educational purposes.
